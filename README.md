@@ -19,8 +19,6 @@ How to use :
 5. if there any error please feedback
 
 CREDITS:
- CYBER2f08, Friends
-
+    @Cyber2f08, @other
 LICENSE:
- PLEASE READ THE FOLLOWING FILE IN THE FOLDER:
- license (Open Source License)
+    MIT License
